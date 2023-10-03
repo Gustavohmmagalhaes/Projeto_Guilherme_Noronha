@@ -30,4 +30,8 @@ public:
     void MA2() {
         cout << "Método MA2() chamado" << endl;
     }
+
+        void MA3() {
+        cout << "Método MA3() chamado" << endl;
+    }
 };
