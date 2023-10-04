@@ -11,6 +11,10 @@ public:
         return A1;
     }
 
+    int getSoma(int a, int b) {
+        return a + b;  
+    }
+
     void setA1(int a1) {
         A1 = a1;
     }
@@ -34,4 +38,7 @@ public:
         void MA3() {
         cout << "Método MA3() chamado" << endl;
     }
+
+   
+
 };
